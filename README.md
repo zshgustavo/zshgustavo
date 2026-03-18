@@ -2,6 +2,9 @@
 
 <h1 align="center">Hi there, I'm Gustavo Ribeiro! 👋</h1>
 
+<!-- <em>"Turning ideas into clean, maintainable systems — one reliable pipeline at a time." 💡</em>-->
+
+
 <p align="center">
   <b>Cloud Data Engineer • Software Engineer • Machine Learning Engineer • Cloud Engineer • GDG Organizer</b>
 </p>
@@ -23,9 +26,9 @@
 
 ## 🎯 About me
 
-I'm a Senior Data & Cloud Engineer, my core strengths include advanced SQL, Spark, Python, and multi-cloud architecture (Google Cloud, AWS, Azure, OCI, IBM Cloud). I specialize in orchestrating data lakes and lakehouses (medallion model), data modeling, and building automated batch and streaming pipelines (ETL/ELT, Delta/Delta Lake, Lambda/Delta architectures). I have deep experience in MLOps and applied machine learning, including work with LLMs and managed cloud ML platforms (Vertex AI, Claude, Gemini). I focus on reproducible model development, deployment, and observability.
+I am a Senior Data and Cloud Engineer, and I have some experience of advanced SQL, Spark, Python, and multi-cloud architecture (Google Cloud, AWS, Azure, OCI, IBM Cloud). I have some experience of orchestrating data lakes and lakehouses (medallion model), data modeling, and building automated batch and streaming pipelines (ETL/ELT, Delta/Delta Lake, Lambda/Delta architectures). I have had the opportunity to accumulate a certain amount of experience in the field of MLOps and applied machine learning, including work with LLMs and managed cloud ML platforms (Vertex AI, Claude, Gemini). My focus is on reproducible model development, deployment, and observability.
 
-Industry experience includes healthcare and collaborations with global teams across the USA and Europe at companies such as CI&T, Pluxee, C6 Bank, Ford, and Cognizant. I lead community initiatives as a GDG Organizer for Google Developer Groups (representing Google Cloud in Brazil), participate in Google Cloud AI Trusted Tester programs, and speak at international events (Developer's Conference, Campus Party, Build with AI, Google DevFest, Google I/O Extended, GDG Summit LATAM).
+I have had the opportunity to gain some experience in the industry, working in healthcare and collaborating with teams from around the world, including in the USA and Europe. I have been fortunate enough to work with companies such as CI&T, Pluxee, C6 Bank, Ford, and Cognizant. I have been fortunate enough to take on some leadership roles in the community, including as a GDG Organizer for Google Developer Groups (representing Google Cloud in Brazil), and I have also been involved in Google Cloud AI Trusted Tester programs. I have also had the opportunity to share my thoughts at international events (Developer's Conference, Campus Party, Build with AI, Google DevFest, Google I/O Extended, GDG Summit LATAM).
 
 
 
@@ -39,22 +42,6 @@ Industry experience includes healthcare and collaborations with global teams acr
 - [ia-agentes-diario-oficial-uniao](https://github.com/gustavribeiros/ia-agentes-diario-oficial-uniao): Agentes de IA para automação de processos para obter dados públicos do Diário Oficial da União do Brasil.
 - [log-generator-covid-vaccines-aws-kinesis](https://github.com/gustavribeiros/log-generator-covid-vaccines-aws-kinesis/tree/master): Acompanhamento das Vacinas de COVID-19 pelo mundo (em 2020).
 <br>
-
-## 🎲 Some stats!
-<div align='center' height=200>
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gustavozsh&theme=dark)](https://github.com/gustavozsh)  
-  <br>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=gustavozsh&theme=monokai)](https://github.com/gustavozsh)
-  <br>
-
-  <a href="https://github.com/gustavozsh/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gustavozsh" />
-  </a>
-  <br><br>
-  </p>
-
-</div>
 
 
 <p align="center"><em>Let's connect, collaborate, and build the future of data together!</em></p>
