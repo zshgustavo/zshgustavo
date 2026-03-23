@@ -16,10 +16,10 @@
 ---
 
 <p align='center'>
-  <a href="https://github.com/gustavozsh"><img src="https://img.shields.io/github/followers/gustavozsh?label=Follow&style=flat-square&logo=github" alt="Follow"></a>
-  <a href="https://github.com/gustavozsh"><img src="https://img.shields.io/github/repo-size/gustavozsh/gustavozsh?style=flat-square" alt="Repo size"></a>
-  <a href="https://github.com/gustavozsh"><img src="https://img.shields.io/github/languages/top/gustavozsh/gustavozsh?style=flat-square" alt="Top language"></a>
-  <a href="https://github.com/gustavozsh/stargazers"><img src="https://img.shields.io/github/stars/gustavozsh?style=social" alt="Stars"></a>
+  <a href="https://github.com/zshgustavo"><img src="https://img.shields.io/github/followers/zshgustavo?label=Follow&style=flat-square&logo=github" alt="Follow"></a>
+  <a href="https://github.com/zshgustavo"><img src="https://img.shields.io/github/repo-size/zshgustavo/gustavozsh?style=flat-square" alt="Repo size"></a>
+  <a href="https://github.com/zshgustavo"><img src="https://img.shields.io/github/languages/top/zshgustavo/zshgustavo?style=flat-square" alt="Top language"></a>
+  <a href="https://github.com/zshgustavo/stargazers"><img src="https://img.shields.io/github/stars/zshgustavo?style=social" alt="Stars"></a>
 </p>
 
 <br>
