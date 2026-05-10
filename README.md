@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <b>Cloud Data Engineer • Software Engineer • Machine Learning Engineer • Cloud Engineer • GDG Organizer</b>
+  <b>Senior Data Engineer | Google Cloud Specialist | GDG Lead Organizer & Gemini AI Tester @ Google </b>
 </p>
 
 <p align="center" >
@@ -26,11 +26,13 @@
 
 ## 🎯 About me
 
-I am a Senior Data and Cloud Engineer, and I have some experience of advanced SQL, Spark, Python, and multi-cloud architecture (Google Cloud, AWS, Azure, OCI, IBM Cloud). I have some experience of orchestrating data lakes and lakehouses (medallion model), data modeling, and building automated batch and streaming pipelines (ETL/ELT, Delta/Delta Lake, Lambda/Delta architectures). I have had the opportunity to accumulate a certain amount of experience in the field of MLOps and applied machine learning, including work with LLMs and managed cloud ML platforms (Vertex AI, Claude, Gemini). My focus is on reproducible model development, deployment, and observability.
+Senior Data Engineer/Architect with 10 years’ experience in scalable data solutions, specializing in Data Strategy, Platform Engineering, and Data Lake/Lakehouse orchestration. Proficient in building automated batch and real-time data pipelines, developing ingestion APIs for cloud-based data lakes (applying DataOps), and expert in Advanced SQL, Apache Spark, and Python. Holds 7 years of certified experience in multi-cloud architecture (GCP, Azure focus; also AWS, OCI, IBM Cloud).
 
-I have had the opportunity to gain some experience in the industry, working in healthcare and collaborating with teams from around the world, including in the USA and Europe. I have been fortunate enough to work with companies such as CI&T, Pluxee, C6 Bank, Ford, and Cognizant. I have been fortunate enough to take on some leadership roles in the community, including as a GDG Organizer for Google Developer Groups (representing Google Cloud in Brazil), and I have also been involved in Google Cloud AI Trusted Tester programs. I have also had the opportunity to share my thoughts at international events (Developer's Conference, Campus Party, Build with AI, Google DevFest, Google I/O Extended, GDG Summit LATAM).
+Works at the Data Engineering/AI intersection, applying DataOps/MLOps to deploy ML models and LLMs (Vertex AI, Claude, Gemini). Proven record in Technical Leadership, cost/performance optimization, and delivering global projects for Ford, CI\&T, and Cognizant. Fluent in English, French, and Italian.
 
+As a technical leader, guides multidisciplinary teams and promotes excellence. An Astronomer Champion, GDG Organizer (GDG Cloud Brasília), and Google Cloud AI Trusted Tester. A frequent speaker at international events (Google DevFest, Google Summits around the world, TDC, etc.).
 
+Active open-source contributor, developing solutions for big tech companies (Zed, Mozilla, Docker, Microsoft), enhancing technical expertise, leadership, and commitment to global innovation.
 
 <br>
 
@@ -45,4 +47,6 @@ I have had the opportunity to gain some experience in the industry, working in h
 
 
 <p align="center"><em>Let's connect, collaborate, and build the future of data together!</em></p>
+<br>
+<p><em>So? How about collaborating on something together? Here are a few ways to get in touch with me :) <a href='https://gustavosantos.bio/'> Just click here!</a></em></p>
 
