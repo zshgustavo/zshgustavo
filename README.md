@@ -32,7 +32,7 @@ Works at the Data Engineering/AI intersection, applying DataOps/MLOps to deploy 
 
 As a technical leader, guides multidisciplinary teams and promotes excellence. An Astronomer Champion, GDG Organizer (GDG Cloud Brasília), and Google Cloud AI Trusted Tester. A frequent speaker at international events (Google DevFest, Google Summits around the world, TDC, etc.).
 
-Active open-source contributor, developing solutions for big tech companies (Zed, Mozilla, Docker, Microsoft), enhancing technical expertise, leadership, and commitment to global innovation.
+Active open-source contributor, developing solutions and enhancing technical expertise, leadership, and commitment to global innovation.
 
 <br>
 
