@@ -46,8 +46,7 @@ Active open-source contributor, developing solutions and enhancing technical exp
 <br>
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=zshgustavo&color=green&style=flat-square)
+
 ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=zshgustavo&style=for-the-badge)
 
 ⭐️ From [zshgustavo](https://github.com/zshgustavo)
