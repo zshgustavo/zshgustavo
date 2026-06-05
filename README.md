@@ -45,6 +45,14 @@ Active open-source contributor, developing solutions and enhancing technical exp
 - [log-generator-covid-vaccines-aws-kinesis](https://github.com/gustavribeiros/log-generator-covid-vaccines-aws-kinesis/tree/master): Acompanhamento das Vacinas de COVID-19 pelo mundo (em 2020).
 <br>
 
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=zshgustavo&color=green&style=flat-square)
+![PROFILE VIEWS](https://komarev.com/ghpvc/?username=zshgustavo&style=for-the-badge)
+
+⭐️ From [zshgustavo](https://github.com/zshgustavo)
+
+</div>
 
 <p align="center"><em>Let's connect, collaborate, and build the future of data together!</em></p>
 <br>
