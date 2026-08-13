@@ -58,5 +58,5 @@ I have extensive experience on global teams across the US and Europe, in various
 
 <p align="center"><em>Let's connect, collaborate, and build the future of data together!</em></p>
 <br>
-<p><em>So? How about collaborating on something together? Here are a few ways to get in touch with me :) <a href='https://gustavosantos.bio/'> Just click here!</a></em></p>
+<p align="center"><em><a href="https://gustavosantospro.com">gustavosantospro.com</a></em></p>
 
