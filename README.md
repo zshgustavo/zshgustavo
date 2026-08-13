@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <b>Senior Data Engineer | Google Cloud Specialist | GDG Lead Organizer & Gemini AI Tester @ Google </b>
+  <b>Senior Data Engineer  ·  Senior Cloud Engineer  ·  Data Architect  ·  AI Engineer </b>
 </p>
 
 <p align="center" >
@@ -26,13 +26,15 @@
 
 ## 🎯 About me
 
-Senior Data Engineer/Architect with 10 years’ experience in scalable data solutions, specializing in Data Strategy, Platform Engineering, and Data Lake/Lakehouse orchestration. Proficient in building automated batch and real-time data pipelines, developing ingestion APIs for cloud-based data lakes (applying DataOps), and expert in Advanced SQL, Apache Spark, and Python. Holds 7 years of certified experience in multi-cloud architecture (GCP, Azure focus; also AWS, OCI, IBM Cloud).
+Senior Data Engineer and Data Architect, I have built a career over 10 years of experience in Data Engineering, Cloud Computing and Software Engineering.
 
-Works at the Data Engineering/AI intersection, applying DataOps/MLOps to deploy ML models and LLMs (Vertex AI, Claude, Gemini). Proven record in Technical Leadership, cost/performance optimization, and delivering global projects for Ford, CI\&T, and Cognizant. Fluent in English, French, and Italian.
+My expertise is marked by Advanced SQL, Spark, Python, Apache Airflow, Astronomer, Databricks, DBT, BigQuery and Data Factory, along with multi-cloud providers such as Google Cloud, Azure, AWS, OCI and IBM Cloud.
 
-As a technical leader, guides multidisciplinary teams and promotes excellence. An Astronomer Champion, GDG Organizer (GDG Cloud Brasília), and Google Cloud AI Trusted Tester. A frequent speaker at international events (Google DevFest, Google Summits around the world, TDC, etc.).
+I am proficient in a skill set spanning data orchestration, modeling and architecture, as well as project planning. My experience includes developing automated data pipelines (batch/streaming) and DevOps, applying the DataOps concept to create efficient deployment flows, combined with monitoring and observability practices (SRE).
 
-Active open-source contributor, developing solutions and enhancing technical expertise, leadership, and commitment to global innovation.
+I also develop scalable data solutions, focused on Data Strategy, Data Platform Engineering and the orchestration of Data Lakes, Data Mesh and Data Lakehouses. I am also focused on Machine Learning, AI and techniques for applying them to real-world situations.
+
+I have extensive experience on global teams across the US and Europe, in various sectors and large companies such as Ford, CI&T, Cognizant and Mozilla. As a technical leader, I am responsible for guiding multidisciplinary teams, promoting technical excellence and collaboration.
 
 <br>
 
@@ -40,7 +42,8 @@ Active open-source contributor, developing solutions and enhancing technical exp
 ## 🌟 Notable Projects
 
 - [lab-cloud-cost-agents](https://github.com/gustavribeiros/lab-cloud-cost-agents): Uso de Generative AI para criar sistema de análise de custos na nuvem em multi-cloud (Google Cloud e AWS)
-- [cloud-cost-analyzer-mcp](https://github.com/gustavribeiros/cloud-cost-analyzer-mcp): Sistema para análise de custos de cloud em múltiplos provedores.
+<!--  
+- [cloud-cost-analyzer-mcp](https://github.com/gustavribeiros/cloud-cost-analyzer-mcp): Sistema para análise de custos de cloud em múltiplos provedores.  Profile README for gustavribeiros -->
 - [ia-agentes-diario-oficial-uniao](https://github.com/gustavribeiros/ia-agentes-diario-oficial-uniao): Agentes de IA para automação de processos para obter dados públicos do Diário Oficial da União do Brasil.
 - [log-generator-covid-vaccines-aws-kinesis](https://github.com/gustavribeiros/log-generator-covid-vaccines-aws-kinesis/tree/master): Acompanhamento das Vacinas de COVID-19 pelo mundo (em 2020).
 <br>
